@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash
 - 👀 I’m interested in Algorithmic Programming and Mathematics
 - 🌱 I’m currently learning Machine learning algos and Deep learning algorithms
-- 💞️ I’m looking to collaborate on any new and innovative projects new learnings
+- 💞️ I’m looking to collaborate on any new and innovative projects with new learnings
 - 📫 You can contact me at my email-ytewari91@gmail.com
 
 <!---
