@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash
 - 👀 I’m interested in Algorithmic Programming and Mathematics
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and Core CS concepts
 - 💞️ I’m looking to collaborate on any new and innovative projects with new learnings
 - 📫 You can contact me at my email-ytewari91@gmail.com or twitter->https://x.com/yash87845
 <!---
